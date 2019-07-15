@@ -128,10 +128,10 @@ In your flatten tool environment, run:
 
 This prints out how to use the tool plus all the arguments it takes. In our case since we want to convert ocds json to ocds csv, let’s see all the help we can get on flatten:  
 
-```flatten-tool flatten –help```  
+```flatten-tool flatten –h```  
 
 
-From the output we are able to view all the arguments of flatten. Don;t worry if everything doesn’t make sense. As we determine what we need, we will understand which arguments can help us achieve our aim. 
+From the output we are able to view all the arguments of flatten. Don't worry if everything doesn’t make sense. As we determine what we need, we will understand which arguments can help us achieve our aim. 
 
 To convert our json file to csv, we run the command below:  
 
