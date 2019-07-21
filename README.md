@@ -8,13 +8,13 @@ By documenting and sharing my internship, I hope that you are inspired and motiv
 
 ## Data Scraping
 
-In the '[extracting-data-from-pdf-files-with-tabula](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/extracting-data-from-pdf-files-with-tabula)' folder, you'll find:
+In the [extracting-data-from-pdf-files-with-tabula](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/extracting-data-from-pdf-files-with-tabula) folder, you'll find:
 - An [introduction]() on why tools like Tabula-py are relevant
-- A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/extracting_data%20_from%20_pdf%20_files_01.ipynb) showing my proceedure in scraping the data out of a pdf file
+- A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/extracting_data%20_from%20_pdf%20_files_01.ipynb) showing my proceedure in scraping data out of a pdf file
 - The [scraped data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/popn_dist_district_brong_ahafo.csv) in a csv file
-- The [sample pdf](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/Ghana_Health_Sector_2017.pdf) I scraped the data from
+- The [sample pdf](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/Ghana_Health_Sector_2017.pdf) I scraped the data from  
 
-The '[ocds-learning-lab](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab)' folder contains all my works on open contracting data. There are subfolders on:
+The [ocds-learning-lab](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab) folder contains all my works on open contracting data. There are subfolders on:
 
 1. [The Flatten Tool](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial)
     - A [tutorial](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/Introduction%20to%20The%20Flatten%20Tool%20For%20OCDS.md) on how to use the flatten tool
@@ -22,17 +22,16 @@ The '[ocds-learning-lab](https://github.com/jfarouk/Data-Engineering-Internship/
     - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/flattening-sample-json-ocds-award-data.ipynb) flattening contract data
     - A [data folder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data) which has the sample [contract json data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/data/sample-ocds-award-data.json) and a [subfolder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data/flattened_json(csv)) containing flat contract data in csv
     
-2. Scraping Ghana contracts data with Beautiful Soup
+2. [Scraping contracts data with Beautiful Soup](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup)
     - Source: Ghana's Public Procurement Authority [website](http://tenders.ppa.gov.gh/contracts)
     - My scraper in a [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/scraping_gh_contracts_data.ipynb)
     - A [requirements.txt](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/requirements.txt) file listing all the package and software dependancies to run the scraper
     - Scraped [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/contract_data_ppa_gh.csv) in a csv file
 
-3. Contract Data cleaning
+3. [Contract Data cleaning](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/cleaning-gh-contract-data)
     - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/cleaning_gh_contract_data.ipynb) showing my cleaning process
     - The [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/contract_data_ppa_gh.csv) before cleaning
-    - The cleaned [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/cleaned_gh_contract_data.csv)
-    - 
+    - The cleaned [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/cleaned_gh_contract_data.csv)  
 
 Below are a list of resources that I found helpful in developing skills and expanding my knowledge base:
 - [Getting Started Section of OCDS Data Standard](http://standard.open-contracting.org/latest/en/getting_started/)
@@ -48,9 +47,12 @@ Below are a list of resources that I found helpful in developing skills and expa
 - [The Linux Command Line](https://drive.google.com/file/d/1tsQ2Uj1X2B8RBL7YI5FsR2hWKjKvj055/view)
 
 
-**Credits**: This internship would not have been possible without the guidance and support of [David Opoku](https://twitter.com/sdopoku) in designing the program, providing resources and shaping my learning curve.
+## Credits
+This internship would not have been possible without the guidance and support of [David Opoku](https://twitter.com/sdopoku) in designing the program, providing resources and shaping my learning curve.
 
 
-**Contribution**: Support, resourses and enquiries can be directed at: j.jamilafarouk[a]gmail[.]com or [jamilafarouk_j](https://twitter.com/jamilafarouk_j) 
+## Contribution
+Support, resourses and enquiries can be directed at: j.jamilafarouk[a]gmail[.]com or [jamilafarouk_j](https://twitter.com/jamilafarouk_j) 
 
-**Licence**: MIT Licence
+## Licence
+MIT Licence
