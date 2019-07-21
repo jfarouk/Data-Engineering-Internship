@@ -41,10 +41,11 @@ The [ocds-learning-lab](https://github.com/jfarouk/Data-Engineering-Internship/t
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Tabula-py Documentation](https://pypi.org/project/tabula-py/)
 - [The Linux Command Line for Beginners Tutorial](https://tutorials.ubuntu.com/tutorial/command-line-for-beginners#0)
+- [The Linux Command Line](https://drive.google.com/file/d/1tsQ2Uj1X2B8RBL7YI5FsR2hWKjKvj055/view)
+- [Getting started with Python environments (using Conda)](https://towardsdatascience.com/getting-started-with-python-environments-using-conda-32e9f2779307)
 - [Conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 - [Datasheets for datasets](https://arxiv.org/pdf/1803.09010.pdf)
-- [Getting started with Python environments (using Conda)](https://towardsdatascience.com/getting-started-with-python-environments-using-conda-32e9f2779307)
-- [The Linux Command Line](https://drive.google.com/file/d/1tsQ2Uj1X2B8RBL7YI5FsR2hWKjKvj055/view)
+
 
 
 ## Credits
