@@ -15,11 +15,11 @@ In this folder, you'll find:
 - The [scraped data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/popn_dist_district_brong_ahafo.csv) in a csv file
 - The [sample pdf](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/Ghana_Health_Sector_2017.pdf) I scraped the data from  
 
-### [OCDS Learning Lab](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab)
+### 2. [OCDS Learning Lab](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab)
 The learning lab folder contains all works relating to contracting data. It includes subfolders on:
 
-a. [The Flatten Tool](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial)
-    - A [tutorial](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/Introduction%20to%20The%20Flatten%20Tool%20For%20OCDS.md) on how to use the flatten tool
+a. [The Flatten Tool](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial)  
+- A [tutorial](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/Introduction%20to%20The%20Flatten%20Tool%20For%20OCDS.md) on how to use the flatten tool
     - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/analysing-flat-sample-ocds-award-data.ipynb) analysing flat contract data
     - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/flattening-sample-json-ocds-award-data.ipynb) flattening contract data
     - A [data folder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data) which has the sample [contract json data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/data/sample-ocds-award-data.json) and a [subfolder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data/flattened_json(csv)) containing flat contract data in csv
