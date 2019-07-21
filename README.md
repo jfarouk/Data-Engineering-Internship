@@ -6,7 +6,7 @@ For beginners in the technical data space, identifying a path of study is usuall
 
 By documenting and sharing my internship, I hope that you are inspired and motivated in going through this resource and able to acquire the skills I gained within the period. This resource is not meant to be exhaustive but to serve as a guide and a starter pack on your data journey. 
 
-## Data Scraping
+## Navigating this repo
 
 In the [extracting-data-from-pdf-files-with-tabula](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/extracting-data-from-pdf-files-with-tabula) folder, you'll find:
 - An [introduction]() on why tools like Tabula-py are relevant
@@ -33,7 +33,7 @@ The [ocds-learning-lab](https://github.com/jfarouk/Data-Engineering-Internship/t
     - The [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/contract_data_ppa_gh.csv) before cleaning
     - The cleaned [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/cleaned_gh_contract_data.csv)  
 
-Below are a list of resources that I found helpful in developing skills and expanding my knowledge base:
+## Other Resources
 - [Getting Started Section of OCDS Data Standard](http://standard.open-contracting.org/latest/en/getting_started/)
 - [Learning Git with Bitbucket Cloud](https://www.atlassian.com/it/git/tutorials/learn-git-with-bitbucket-cloud)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
