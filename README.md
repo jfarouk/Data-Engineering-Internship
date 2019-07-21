@@ -2,7 +2,7 @@
 
 Stemming from my drive to build a data portfolio, this repo highlights my learnings embarking on an eight week (June - July 2019) remote internship working with contracting data and tools that make it accessible for analysis. It contains both created and curated resources that I developed and studied, which will be beneficial for anyone starting to build technical data skills. 
 
-For beginners in the technical data space, identifying a path of study is usually time consuming, overwhelming and stressful especially due to the abundance of resourses on the web. This usually deters individuals to cave in, ditch data skill building and think of themselves as incompetent and incapable. I can relate to this experience as I've been there before many times. I created this repo with you in mind too. 
+For beginners in the technical data space, identifying a path of study is usually time consuming, overwhelming and stressful especially due to the abundance of resourses on the web. This usually makes individuals cave in, ditch data skill building and think of themselves as incompetent and incapable. I can relate to this experience as I've been there before many times. I created this repo with you in mind too. 
 
 By documenting and sharing my internship, I hope that you are inspired and motivated in going through this resource and able to acquire the skills I gained within the period. This resource is not meant to be exhaustive but to serve as a guide and a starter pack on your data journey. 
 
