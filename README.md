@@ -8,7 +8,7 @@ By documenting and sharing my internship, I hope that you are inspired and motiv
 
 ## Navigating this repo
 
-### [Extracting data from pdf files with tabula](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/extracting-data-from-pdf-files-with-tabula)
+### 1. [Extracting data from pdf files with tabula](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/extracting-data-from-pdf-files-with-tabula)
 In this folder, you'll find:
 - An [introduction](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/introduction.md) on why tools like Tabula-py are relevant
 - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/extracting_data%20_from%20_pdf%20_files_01.ipynb) showing my proceedure in scraping data out of a pdf file
@@ -18,19 +18,19 @@ In this folder, you'll find:
 ### [OCDS Learning Lab](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab)
 The learning lab folder contains all works relating to contracting data. It includes subfolders on:
 
-1. [The Flatten Tool](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial)
+a. [The Flatten Tool](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial)
     - A [tutorial](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/Introduction%20to%20The%20Flatten%20Tool%20For%20OCDS.md) on how to use the flatten tool
     - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/analysing-flat-sample-ocds-award-data.ipynb) analysing flat contract data
     - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/flattening-sample-json-ocds-award-data.ipynb) flattening contract data
     - A [data folder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data) which has the sample [contract json data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/data/sample-ocds-award-data.json) and a [subfolder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data/flattened_json(csv)) containing flat contract data in csv
     
-2. [Scraping contracts data with Beautiful Soup](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup)
+b. [Scraping contracts data with Beautiful Soup](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup)
     - Source: Ghana's Public Procurement Authority [website](http://tenders.ppa.gov.gh/contracts)
     - My scraper in a [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/scraping_gh_contracts_data.ipynb)
     - A [requirements.txt](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/requirements.txt) file listing all the package and software dependancies to run the scraper
     - Scraped [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/contract_data_ppa_gh.csv) in a csv file
 
-3. [Contract Data cleaning](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/cleaning-gh-contract-data)
+c. [Contract Data cleaning](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/cleaning-gh-contract-data)
     - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/cleaning_gh_contract_data.ipynb) showing my cleaning process
     - The [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/contract_data_ppa_gh.csv) before cleaning
     - The cleaned [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/cleaning-gh-contract-data/cleaned_gh_contract_data.csv)  
