@@ -1,4 +1,4 @@
-# Data-Engineering-Internship
+# Data Engineering Internship
 
 Stemming from my drive to build a data portfolio, this repo highlights my learnings embarking on an eight week (June - July 2019) remote internship working with contracting data and tools that make it accessible for analysis. It contains both created and curated resources that I developed and studied, which will be beneficial for anyone starting to build technical data skills. 
 
