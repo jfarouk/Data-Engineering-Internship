@@ -121,7 +121,7 @@ NB: See [Jupyter Notebook](https://github.com/jfarouk/Data-Engineering-Internshi
 
 
 
-## 2. Using Flatten
+## 2. Using the Flatten Tool
 
 In your flatten tool environment, run:  
 
