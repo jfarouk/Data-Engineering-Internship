@@ -117,7 +117,7 @@ award_details_unpacked
 
 See how cumbersome this process is getting? For a simple json file, going through this process might probably not be a big deal. But with a huge file as nested as this or even deeper, we’ll have to think twice.
 
-NB: See [Jupyter Notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/flattening-sample-json-ocds-award-data.ipynb) for this section.
+NB: See [Jupyter Notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/section_one_pandas_json_library.ipynb) for this section.
 
 
 
@@ -199,7 +199,7 @@ Lastly, the value of the award
 
 Easy peasy!
 
-NB: See [Jupyter Notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/analysing-flat-sample-ocds-award-data.ipynb) for this section.
+NB: See [Jupyter Notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/section_two_flatten_tool.ipynb) for this section.
 
 ## Converting From OCDS CSV/Spreadsheet to OCDS JSON
 Now, let’s convert back our files from csv to json. Using the flatten tool, we can pass the argument “unflatten.”  Run this code in your flatten environment on your terminal:  
