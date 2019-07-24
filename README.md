@@ -24,7 +24,6 @@ a. [The Flatten Tool](https://github.com/jfarouk/Data-Engineering-Internship/tre
 - A [data folder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data) which has the sample [contract json data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/data/sample-ocds-award-data.json) and a [subfolder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data/flattened_json(csv)) containing flat contract data in csv
     
 b. [Scraping contracts data with Beautiful Soup](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup)  
-- Source: Ghana's Public Procurement Authority [website](http://tenders.ppa.gov.gh/contracts)  
 - My scraper in a [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/scraping_gh_contracts_data.ipynb)  
 - A [requirements.txt](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/requirements.txt) file listing all the package and software dependancies to run the scraper  
 - Scraped [data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup/contract_data_ppa_gh.csv) in a csv file
