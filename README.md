@@ -19,8 +19,8 @@ The learning lab folder contains all works relating to contracting data. It incl
 
 a. [The Flatten Tool](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial)  
 - A [tutorial](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/Introduction%20to%20The%20Flatten%20Tool%20For%20OCDS.md) on how to use the flatten tool  
-- A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/analysing-flat-sample-ocds-award-data.ipynb) analysing flat contract data  
-- A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/flattening-sample-json-ocds-award-data.ipynb) flattening contract data  
+- The [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/section_one_pandas_json_library.ipynb) for section one of the tutorial  
+- The [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/section_two_flatten_tool.ipynb) for section two of the tutorial  
 - A [data folder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data) which has the sample [contract json data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/ocds-learning-lab/flatten-tool-tutorial/data/sample-ocds-award-data.json) and a [subfolder](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/flatten-tool-tutorial/data/flattened_json(csv)) containing flat contract data in csv's
     
 b. [Scraping contracts data with Beautiful Soup](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/ocds-learning-lab/scraping-gh-contract-data-with-beautiful-soup)  
