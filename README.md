@@ -10,7 +10,6 @@ By documenting and sharing my internship, I hope that you are inspired and motiv
 
 ### 1. [Extracting data from pdf files with tabula](https://github.com/jfarouk/Data-Engineering-Internship/tree/master/extracting-data-from-pdf-files-with-tabula)
 In this folder, you'll find:
-- An [introduction](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/introduction.md) on why tools like Tabula-py are relevant
 - A [jupyter notebook](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/extracting_data%20_from%20_pdf%20_files_01.ipynb) showing my proceedure in scraping data out of a pdf file
 - The [scraped data](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/popn_dist_district_brong_ahafo.csv) in a csv file
 - The [sample pdf](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/extracting-data-from-pdf-files-with-tabula/Ghana_Health_Sector_2017.pdf) I scraped the data from  
