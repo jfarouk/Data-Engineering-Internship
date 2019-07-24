@@ -56,4 +56,4 @@ This internship would not have been possible without the guidance and support of
 Support, resourses and enquiries can be directed at: j.jamilafarouk[a]gmail[.]com or [jamilafarouk_j](https://twitter.com/jamilafarouk_j) 
 
 ## License
-See [LICENSE.md](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/LICENSE.md)
+MIT License. See [LICENSE.md](https://github.com/jfarouk/Data-Engineering-Internship/blob/master/LICENSE.md)
